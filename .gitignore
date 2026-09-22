@@ -1,0 +1,26 @@
+.env
+
+# Python
+__pycache__/
+*.pyc
+myenv/
+venv/
+fraud-env/
+*.egg-info/
+
+# Data
+creditcard.csv
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+
+# Generated outputs (optional — remove these two lines if you WANT to commit the trained model/charts)
+# fraud_model.joblib
+# *.png
