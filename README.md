@@ -231,4 +231,4 @@ streamlit run demo_app.py
 
 ## 👤 Author
 
-Built by Sagar Singh Bisht as a portfolio project for Machine Learning / Data Science roles.
+Built by Sagar Singh Bisht as a portfolio project.
